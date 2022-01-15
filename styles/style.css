@@ -1,0 +1,102 @@
+.ha{
+    display: flex;
+    background-color: honeydew;
+    
+    
+}
+.lag img{
+    
+    background-size: 50%;
+    height: 250px;
+    width: 250px;
+    margin-right: 150px;
+    padding-top: 35px;
+}
+.head {
+    
+
+    background-size: 50%;
+    margin-right: 200px;
+    margin-left: 100px;
+  padding: 20px;
+
+}
+h1{
+    font-size: 35px;
+}
+.button{
+    
+    background-color: rgb(29, 211, 224);
+    text-decoration: none;
+    background-image: linear-gradient(to right, rgb(146, 231, 146) , rgb(238, 142, 217));
+    border-radius: 8px;
+    padding: 12px;
+    font-size: 18px;
+    font-weight: 700;
+    font-display: auto;
+    text-align: left;
+}
+.dnd{
+    padding-bottom: 5px;
+
+}
+.third{
+    display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  
+  background-color: lightyellow;
+    
+}
+.a{
+    padding: auto;
+    margin: auto;
+
+}
+strong{
+    font-size: 25px;
+}
+fa-star-half-alt{
+    color:orange;
+}
+header{
+    display: flex;
+    background-color: seashell;
+}
+.dd a{
+    text-align: right;
+    padding: 20px;
+    margin-top: 70px;
+    font: 1.3em sans-serif;
+    font-weight: 800;
+    text-decoration: none;
+    
+    
+
+}
+.qa{
+    display: flex;
+}
+.qa img{
+    
+    width: 450px;
+    height: 300px;
+}
+.hal{
+    padding-left: 250px;
+    margin: 10px;
+}
+.a{
+    background-color: lightgrey;
+ max-width: 500px;
+  border: 15px solid rgb(172, 211, 223);
+  max-height: 500px;
+  margin: 20px;
+}
+footer {
+    background-color: rgb(85, 163, 7);
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    margin: 3px;
+    line-height: 10px;
+}
